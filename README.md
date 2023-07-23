@@ -1,4 +1,4 @@
-# instagram_clone
+# A simple Sign Up & Sign In App with Firebase Storage
 
 A new Flutter project.
 
