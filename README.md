@@ -1,7 +1,9 @@
 # A simple Sign Up & Sign In App with Firebase Storage
 
 A new Flutter project.
-
+# Note
+At first, I want to create an Instagram clone but later I go for a more authentic work.
+So, That's why we can see mention of Instagram clone in some places 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
